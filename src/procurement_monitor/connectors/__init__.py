@@ -1,0 +1,1 @@
+"""Public tender connectors."""

@@ -1,0 +1,2 @@
+id,category,keyword_lv,keyword_en,variants,cpv_codes,negative_terms,weight,enabled
+demo-01,IT,,software,,,,80,true

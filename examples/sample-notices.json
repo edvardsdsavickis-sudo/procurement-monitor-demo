@@ -1,0 +1,58 @@
+{
+  "notices": [
+    {
+      "publication-number": "DEMO-001",
+      "publication-date": [
+        "2026-10-01"
+      ],
+      "form-type": [
+        "competition"
+      ],
+      "title-proc": {
+        "eng": [
+          "Software support and maintenance"
+        ]
+      },
+      "description-proc": {
+        "eng": [
+          "Annual maintenance for a records management platform."
+        ]
+      },
+      "organisation-name-buyer": {
+        "eng": [
+          "Example Public Authority"
+        ]
+      },
+      "classification-cpv": [
+        "72000000"
+      ]
+    },
+    {
+      "publication-number": "DEMO-002",
+      "publication-date": [
+        "2026-10-01"
+      ],
+      "form-type": [
+        "competition"
+      ],
+      "title-proc": {
+        "eng": [
+          "Office furniture supply"
+        ]
+      },
+      "description-proc": {
+        "eng": [
+          "Desks and chairs for administrative offices."
+        ]
+      },
+      "organisation-name-buyer": {
+        "eng": [
+          "Example Public Authority"
+        ]
+      },
+      "classification-cpv": [
+        "39130000"
+      ]
+    }
+  ]
+}
